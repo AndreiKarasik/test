@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1656267303 source:c:\users\andrei\desktop\bmsd\main.cpp
+	<Windows.h>
+	<string>
+	<iostream>
+	<cmath>
+	<fstream>
+	<time.h>
+	"definitions.h"
+	"resource.h"
+	"Connection.h"
+	"menus_and_widgets.h"
+
+1655382258 c:\users\andrei\desktop\bmsd\bmsd.h
+
+1655838326 c:\users\andrei\desktop\bmsd\resource.h
+
+1656161270 c:\users\andrei\desktop\bmsd\connection.h
+
+1655830441 source:c:\users\andrei\desktop\bmsd\resource.rc
+	"resource.h"
+
+1656263260 c:\users\andrei\desktop\bmsd\definitions.h
+
+1656362087 c:\users\andrei\desktop\bmsd\menus_and_widgets.h
+
